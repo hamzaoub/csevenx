@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_onxkyoloha1w05w8zo1_500.gifv"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salah-elhint&label=Profile%20views&color=0e75b6&style=flat" alt="salah-elhint" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaoub&label=Profile%20views&color=0e75b6&style=flat" alt="hamza-oubahim" /> </p>
 
 - 🌱 I’m currently learning **Vue.js**
 
